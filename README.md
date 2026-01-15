@@ -8,6 +8,7 @@ Try [Nexty.dev today](https://nexty.dev?utm_source=github-test-azure-004)
 
 [<img src="/public/try-nexty.webp">](https://nexty.dev?utm_source=github-test-azure-004)
 
+VIVA CAFE
 
 🌍 *[English](README.md) ∙ [简体中文](README_zh.md) ∙ [日本語](README_ja.md)*
 
